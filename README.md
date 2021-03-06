@@ -5,8 +5,8 @@
 
 # 🇧🇷 Em português:
 ## Olá Mundo! 👋
-Meu nome é Thiago, eu sou Brasileiro, desenvolvedor e tenho 19 anos.
-No momento estou um pouco ocupado, então não estou trabalhando muito em nenhum projeto, mas melhorar essa conta é uma espécie de projeto para mim, já que amo código aberto e estou trabalhando nisso progressivamente.
+<p>Meu nome é Thiago, eu sou Brasileiro, desenvolvedor e tenho 19 anos.</p>
+<p>No momento estou um pouco ocupado, então não estou trabalhando muito em nenhum projeto, mas melhorar essa conta é uma espécie de projeto para mim, já que amo código aberto e estou trabalhando nisso progressivamente.</p>
 <!--
 **thiagolauter/thiagolauter** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
