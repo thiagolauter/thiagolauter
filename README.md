@@ -1,10 +1,10 @@
-## 🇺🇸 English version:
+# 🇺🇸 English version:
 ##### Hello World! 👋
 <p>My name is Thiago, I am Brazilian,a developer, and 19 years old.</p>
 <p>At the moment I'm a little busy, so I'm not working on any projects very much, but improving this account is a kind of project to me, as I love open source and I'm working on it progressively.</p>
 <h3>📫 How to reach me:</h3>
 
-### 🇧🇷 Em português:
+# 🇧🇷 Em português:
 ##### Olá Mundo! 👋
 <p>Meu nome é Thiago, eu sou Brasileiro, desenvolvedor e tenho 19 anos.</p>
 <p>No momento estou um pouco ocupado, então não estou trabalhando muito em nenhum projeto, mas melhorar essa conta é uma espécie de projeto para mim, já que amo código aberto e estou trabalhando nisso progressivamente.</p>
