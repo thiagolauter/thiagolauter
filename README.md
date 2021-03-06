@@ -1,6 +1,6 @@
-### 🇺🇸 English version:
-## Hi there 👋
-#  About me: 
+<h1>🇺🇸 English version:</h1>
+<h2>Hi there 👋</h2>
+<h>About me:</h3> 
 
   At the moment I am a bit busy, so not working hard on any project, but evolve this account is kind of a project for me since I love open source and I am working on that progressively.
 ### 🇧🇷 Em português:
