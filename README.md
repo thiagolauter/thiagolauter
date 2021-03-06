@@ -1,7 +1,7 @@
 # 🇺🇸 English version:
 ## Hello World! 👋
-My name is Thiago, I am a Brazilian, developer and 19 years old.
-At the moment I'm a little busy, so I'm not working on any projects very much, but improving this account is a kind of project for me, as I love open source and I'm working on it progressively. 
+<p>My name is Thiago, I am a Brazilian, developer and 19 years old.</p>
+<p>At the moment I'm a little busy, so I'm not working on any projects very much, but improving this account is a kind of project for me, as I love open source and I'm working on it progressively.</p>
 
 # 🇧🇷 Em português:
 ## Olá Mundo! 👋
