@@ -1,6 +1,6 @@
 ### 🇺🇸 English version:
 #### 👋 Hello World!
-<p>👱🏻‍♂️ My name is Thiago, I am Brazilian,a developer, and 19 years old.</p>
+<p>👱🏻‍♂️ My name is Thiago, I am Brazilian, a developer, and 19 years old.</p>
 <h4>🔭 I’m currently working on:</h4>
 <p>At the moment I'm a little busy, so I'm not working on any projects very much, but improving this account is a kind of project to me, as I love open source and I'm working on it progressively.</p>
 <h4>📫 How to reach me:</h4>
