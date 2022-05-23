@@ -1,4 +1,4 @@
-### [🇧🇷 Em português](.README-pt.md)
+### [🇧🇷 Em português](README-pt.md)
 #### 👋 Hello World!
 <p>👱🏻‍♂️ I am Thiago, a 20 years old Brazilian developer.</p>
 <h4>🔭 I’m currently working on:</h4>
