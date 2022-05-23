@@ -1,4 +1,4 @@
-### [🇺🇸 English version](.README.md)
+### [🇺🇸 English version](README.md)
 
 #### 👋 Olá Mundo!
 <p>👱🏻‍♂️ Meu nome é Thiago, sou Brasileiro, desenvolvedor e tenho 20 anos.</p>
